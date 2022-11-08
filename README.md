@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Aerly-Lex
+- 👀 I’m interested in starting to programm stuffs and would like to switch my career onto a new path.
