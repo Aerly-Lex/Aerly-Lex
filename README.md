@@ -1,4 +1,4 @@
-Hi 👋, I'm Aerly Lex
+Hi 👋, I'm Aerly aka Daniel
 
 Self-taught in Python Basic and Pine
 
