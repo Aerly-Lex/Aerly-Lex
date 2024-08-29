@@ -8,6 +8,9 @@ I'm Aerly aka Daniel, self-taught in Python and Pine.
 
 📫 How to reach me Aerlylex@gmail.com
 
+## Languages and Tools:
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,git,bash)](https://skillicons.dev)
 
 ## Projects:
 
