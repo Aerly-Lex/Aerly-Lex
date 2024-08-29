@@ -14,3 +14,6 @@ I'm Aerly aka Daniel, self-taught in Python and Pine.
 ### [42 Cursus - <sub><sup>Click here</sup></sub>](https://github.com/Aerly-Lex/42-Cursus) 
 
 `All projects I am currently working on and have completed during my study at 42Heilbronn`
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aerly-lex"/> </p>
