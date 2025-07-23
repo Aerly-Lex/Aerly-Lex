@@ -1,12 +1,12 @@
 # Hey 👋 how's going? 
 
-I'm Aerly aka Daniel, self-taught in Python and Pine.
+I'm Aerly aka Daniel, a Junior Software Developer with background in Python, C and C++.
 
-🌱 I’m currently learning C and C++ at 42-Heilbronn.
+🎓 I studied and completed my software engineering studies at **42 Heilbronn**.
 
-💞️ I would be happy to collaborate on any related project, where I can help and gain experience.
+💼 I'm now starting my professional journey as a developer and always looking to grow through collaboration and building real-world projects.
 
-📫 How to reach me Aerlylex@gmail.com
+📫 Reach me at: Aerlylex@gmail.com
 
 # Languages and Tools:
 
@@ -14,9 +14,9 @@ I'm Aerly aka Daniel, self-taught in Python and Pine.
 
 # Projects:
 
-## [42 Cursus - <sub><sup>Click here</sup></sub>](https://github.com/Aerly-Lex/42-Cursus) 
+## [42Heilbronn Cursus - <sub><sup>Click here</sup></sub>](https://github.com/Aerly-Lex/42-Cursus) 
 
-`All projects I am currently working on and have completed during my study at 42Heilbronn`
+`All projects I worked on during my time at 42 Heilbronn – from basic shell implementations to memory management and algorithms.`
 
 
 
