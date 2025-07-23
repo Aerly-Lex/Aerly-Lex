@@ -4,7 +4,7 @@ I'm Aerly aka Daniel, a Junior Software Developer with background in Python, C a
 
 🎓 I studied and completed my software engineering studies at **42 Heilbronn**.
 
-💼 I'm now starting my professional journey as a developer and always looking to grow through collaboration and building real-world projects.
+💼 Software Developer with a focus on clean code, collaboration, and real-world problem solving.
 
 📫 Reach me at: Aerlylex@gmail.com
 
