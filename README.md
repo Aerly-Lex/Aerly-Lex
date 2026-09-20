@@ -1,6 +1,6 @@
 # Hey 👋 how's going? 
 
-I'm Aerly aka Daniel, a Junior Software Developer with background in Python, C and C++.
+I'm Aerly aka Daniel, a Software Developer with background in Python, C and C++.
 
 🎓 I studied and completed my software engineering studies at **42 Heilbronn**.
 
